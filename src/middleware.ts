@@ -1,14 +1,14 @@
-import createMiddleware from 'next-intl/middleware';
- 
+import createMiddleware from "next-intl/middleware";
+
 export default createMiddleware({
   // A list of all locales that are supported
-  locales: ['en', 'pt', 'es'],
- 
+  locales: ["pt", "en"],
+
   // Used when no locale matches
-  defaultLocale: 'pt'
+  defaultLocale: "pt",
 });
- 
+
 export const config = {
   // Match only internationalized pathnames
-  matcher: ['/', '/(pt|en|es)/:path*']
+  matcher: ["/", "/(pt|en)/:path*"],
 };

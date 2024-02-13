@@ -4,7 +4,7 @@ import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/react";
 import { Toaster } from "@/components/ui/toaster";
-import { notFound } from "next/navigation";
+import { Header } from "@/components/header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -14,8 +14,6 @@ export const metadata: Metadata = {
     "Transforme sonhos em conquistas nos EUA com as estratégias de marketing da StarFy Agency. Oferecemos tráfego pago, consultoria e suporte para empreendedores imigrantes.",
 };
 
-const locales = ["en", "de"];
-
 export default function RootLayout({
   children,
   params: { locale },
@@ -23,10 +21,6 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }>) {
-  if (!locales.includes(locale)) {
-    notFound();
-  }
-
   return (
     <html lang={locale}>
       <head>
@@ -71,6 +65,7 @@ export default function RootLayout({
 
       <body className={inter.className}>
         <div className="flex h-full flex-col">
+          <Header />
           <div className="flex-1">{children}</div>
           <SpeedInsights />
           <Analytics />
