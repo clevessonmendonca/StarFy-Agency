@@ -5,6 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/react";
 import { Toaster } from "@/components/ui/toaster";
 import { Header } from "@/components/header";
+import { Footer } from "@/components/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -67,6 +68,8 @@ export default function RootLayout({
         <div className="flex h-full flex-col">
           <Header />
           <div className="flex-1">{children}</div>
+          <Footer />
+
           <SpeedInsights />
           <Analytics />
           <Toaster />

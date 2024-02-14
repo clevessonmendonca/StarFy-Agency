@@ -17,7 +17,7 @@ export const TestimonialsSection = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
         <FadeIn className="w-full h-full">
-          <Card className="flex flex-col text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
+          <Card className="flex flex-col max-w-md mx-auto text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
             <FadeIn duration={0.6} to="top">
               <Avatar className="mx-auto">
                 <AvatarImage
@@ -40,7 +40,7 @@ export const TestimonialsSection = () => {
           </Card>
         </FadeIn>
         <FadeIn className="w-full h-full">
-          <Card className="flex flex-col text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
+          <Card className="flex flex-col max-w-md mx-auto text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
             <FadeIn duration={0.6} to="top">
               <Avatar className="mx-auto">
                 <AvatarImage
@@ -63,7 +63,7 @@ export const TestimonialsSection = () => {
           </Card>
         </FadeIn>
         <FadeIn className="w-full h-full">
-          <Card className="flex flex-col text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
+          <Card className="flex flex-col max-w-md mx-auto text-center items-center px-4 pt-8 pb-14 min-h-6 md:min-h-10 h-full shadow-md">
             <FadeIn duration={0.6} to="top">
               <Avatar className="mx-auto">
                 <AvatarImage

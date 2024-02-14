@@ -4,6 +4,8 @@ import { ServicesSection } from "@/components/services";
 import { AboutUsSection } from "@/components/about-section";
 import { LowInvestHighProfit } from "@/components/lowInvestHighProfit";
 import { TestimonialsSection } from "@/components/testimonials-section";
+import { CaptureSection } from "@/components/capture-section";
+import { Footer } from "@/components/footer";
 
 export default function Home() {
   return (
@@ -51,16 +53,14 @@ export default function Home() {
         <ServicesSection />
       </div>
 
-      <div>
-        <AboutUsSection />
-      </div>
+      <AboutUsSection />
 
-      <div>
-        <LowInvestHighProfit />
-      </div>
+      <LowInvestHighProfit />
 
-      <div>
-        <TestimonialsSection />
+      <TestimonialsSection />
+
+      <div className="mt-12 mb-20 px-4 max-w-screen-lg mx-auto">
+        <CaptureSection />
       </div>
     </div>
   );

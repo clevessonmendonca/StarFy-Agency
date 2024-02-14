@@ -45,8 +45,8 @@ export const HeroSection = () => {
           width={0}
           className="h-auto w-full bg-contain px-5"
           height={0}
-          src="/marketing.png"
-          alt="marketing.png"
+          src="/garota-feliz-com-o-resultado-da-sua empresa.png"
+          alt="garota-feliz-com-o-resultado-da-sua empresa"
         />
       </FadeIn>
     </div>

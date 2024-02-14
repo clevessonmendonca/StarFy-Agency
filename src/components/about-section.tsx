@@ -17,22 +17,22 @@ export const AboutUsSection = () => {
 
   return (
     <div className="mx-auto max-w-screen-xl p-8">
-      <div className="text-center md:text-start flex flex-col items-center md:flex-row gap-8 mb-6">
+      <div className="text-center md:text-start flex flex-col items-center md:flex-row gap-8 my-6">
         <div className="md:w-2/3">
           <Image
             sizes="100vw"
             width={0}
             className="h-auto w-full bg-contain px-5"
             height={0}
-            src="/marketing.png"
-            alt="marketing.png"
+            src="/colegas-de-tiro-medio-debatendo-ideias.jpg"
+            alt="colegas-de-tiro-medio-debatendo-ideias"
           />
         </div>
 
         <div className="md:w-2/3">
           <Badge variant="outline">{t("subtitle")}</Badge>
-          <h2 className="text-3xl font-bold my-5 text-third">{t("title")}</h2>
-          <p className="max-w-md">{t("description")}</p>
+          <h2 className="text-3xl font-bold my-4 text-third">{t("title")}</h2>
+          <p className="md:max-w-md">{t("description")}</p>
 
           <div className="mt-4">
             {services.map((service, index) => (
@@ -52,7 +52,7 @@ export const AboutUsSection = () => {
               </FadeIn>
             ))}
 
-            <div className="mt-8 text-center">
+            <div className="mt-8">
               <Button size="lg">{t("cta")}</Button>
             </div>
           </div>
