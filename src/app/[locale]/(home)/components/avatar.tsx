@@ -10,15 +10,15 @@ export const Avatars = () => {
       fallback: "S",
     },
     { username: "Igor Client", imageSrc: "/profiles/igor.jpg", fallback: "S" },
-    {
-      username: "Douglas Client",
-      imageSrc: "/profiles/douglas.jpg",
-      fallback: "S",
-    },
     { username: "Sara Client", imageSrc: "/profiles/sara.jpg", fallback: "S" },
     {
       username: "Livia Client",
       imageSrc: "/profiles/livia.jpg",
+      fallback: "S",
+    },
+    {
+      username: "Douglas Client",
+      imageSrc: "/profiles/douglas.jpg",
       fallback: "S",
     },
   ];
@@ -29,7 +29,7 @@ export const Avatars = () => {
         <FadeIn duration={0.6} to="top" key={index}>
           <Avatar>
             <AvatarImage
-              className="border-2 border-white rounded-full dark:border-gray-800"
+              className="border-2 border-white rounded-full bg-center object-cover dark:border-gray-800"
               src={avatar.imageSrc}
               alt={`@${avatar.username}`}
             />

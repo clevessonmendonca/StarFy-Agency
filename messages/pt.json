@@ -1,11 +1,64 @@
 {
-  "Home": {
-    "badgeText": "Eleve seu negócio a novos patamares",
-    "title": "Transforme Seus Sonhos em Conquistas nos EUA!",
-    "description": "Descubra como a StarFy Agency pode impulsionar o seu negócio com estratégias de marketing, tráfego pago e suporte exclusivo para empreendedores imigrantes.",
-    "cta": "Descubra Mais",
-    "ctaSecondary": "Saiba mais",
-    "avatarsTitle": "Nossos Clientes Satisfeitos",
-    "ratings": "⭐ 4.9 (504 Avaliações)"
+  "pages": {
+    "Header": {
+      "getStarted": "Comece Agora",
+      "nav": {
+        "home": "Início",
+        "about": "Sobre",
+        "service": "Serviços",
+        "contact": "Contato"
+      },
+      "logoAlt": "Logo da StarFy Agency",
+      "sheetTitle": "StarFy Agency",
+      "navButton": "Comece Agora"
+    },
+    "Home": {
+      "HeroSection": {
+        "badgeText": "Eleve seu negócio a novos patamares",
+        "title": "Seu Sucesso nos EUA: Consiga Seus Próprios Clientes Agora!",
+        "description": "Descubra como a StarFy Agency pode impulsionar o seu negócio com estratégias de marketing, tráfego pago e suporte exclusivo para empreendedores imigrantes.",
+        "cta": "Tenho Interesse!",
+        "ctaSecondary": "Saiba mais",
+        "avatarsTitle": "Nossos Clientes Satisfeitos",
+        "ratings": "⭐ 4.9 (504 Avaliações)"
+      },
+
+      "Services": {
+        "subtitle": "Estrelando o Caminho do Sucesso",
+        "title": "Nossos Serviços",
+        "description": "Oferecemos soluções abrangentes para impulsionar o seu negócio nos EUA, com foco em resultados tangíveis.",
+        "cta": "Entre em Contato",
+        "service1": {
+          "title": "Criação e Otimização de Sites",
+          "description": "Desenvolvemos sites atrativos e otimizados para melhorar a presença online, proporcionando uma experiência envolvente aos visitantes."
+        },
+        "service2": {
+          "title": "Anúncios Estratégicos para Alcançar Clientes",
+          "description": "Criamos campanhas publicitárias online altamente eficazes, direcionadas ao público-alvo certo para impulsionar o tráfego e gerar leads qualificados."
+        },
+        "service3": {
+          "title": "Estratégias de Conteúdo de Marketing",
+          "description": "Desenvolvemos conteúdo envolvente e estratégico para construir autoridade de marca, atrair e reter a atenção do público, convertendo visitantes em clientes leais."
+        }
+      },
+
+      "aboutUs": {
+        "subtitle": "Bem-Vindo à StarFy",
+        "title": "Somos uma Agência Especializada em impulsionar negócios. Fazemos você PARAR de depender de outros!",
+        "description": "Na StarFy, somos especialistas em impulsionar negócios. Com profissionalismo e dedicação, oferecemos uma variedade de serviços projetados para fazer você crescer no mercado.",
+        "services": {
+          "houseCleaning": "House Cleaning",
+          "posConstruction": "Pos Construction",
+          "others": "Outros"
+        },
+        "cta": "Entre em contato hoje mesmo!"
+      },
+
+      "lowInvestHighProfit": {
+        "title": "Invista Pouco e Lucre Muito!",
+        "description": "Descubra oportunidades de crescimento com investimentos acessíveis. Na StarFy, acreditamos que o sucesso não precisa ser caro. Com soluções inovadoras e eficazes, ajudamos você a alcançar altos lucros sem comprometer sua carteira.",
+        "cta": "Comece a Lucrar Agora"
+      }
+    }
   }
 }
