@@ -58,6 +58,28 @@
         "title": "Invista Pouco e Lucre Muito!",
         "description": "Descubra oportunidades de crescimento com investimentos acessíveis. Na StarFy, acreditamos que o sucesso não precisa ser caro. Com soluções inovadoras e eficazes, ajudamos você a alcançar altos lucros sem comprometer sua carteira.",
         "cta": "Comece a Lucrar Agora"
+      },
+
+      "testimonials": {
+        "subtitle": "Depoimentos",
+        "title": "O que nossos clientes dizem sobre a StarFy",
+        "comments": {
+          "testimonial-1": {
+            "name": "José Pereira",
+            "role": "Construction",
+            "quote": "Contratar a StarFy foi a melhor decisão para o meu negócio. Eles compreenderam minhas necessidades e criaram estratégias que realmente impulsionaram as vendas."
+          },
+          "testimonial-2": {
+            "name": "Camila Santos",
+            "role": "House Cleaning",
+            "quote": "A StarFy superou minhas expectativas. Sua abordagem profissional e inovadora fez uma grande diferença na visibilidade e crescimento da minha empresa."
+          },
+          "testimonial-3": {
+            "name": "Lucas Oliveira",
+            "role": "House Cleaning",
+            "quote": "Estou extremamente satisfeito com os serviços da StarFy. Eles não apenas entendem de marketing, mas também se dedicam a garantir o sucesso dos seus clientes."
+          }
+        }
       }
     }
   }

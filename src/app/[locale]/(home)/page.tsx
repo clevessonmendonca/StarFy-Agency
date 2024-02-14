@@ -1,8 +1,9 @@
 import Image from "next/image";
 import { HeroSection } from "./components/hero-section";
 import { ServicesSection } from "@/components/services";
-import { AboutUsSection } from "@/components/aboutSection";
+import { AboutUsSection } from "@/components/about-section";
 import { LowInvestHighProfit } from "@/components/lowInvestHighProfit";
+import { TestimonialsSection } from "@/components/testimonials-section";
 
 export default function Home() {
   return (
@@ -56,6 +57,10 @@ export default function Home() {
 
       <div>
         <LowInvestHighProfit />
+      </div>
+
+      <div>
+        <TestimonialsSection />
       </div>
     </div>
   );
