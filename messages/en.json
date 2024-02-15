@@ -1,11 +1,129 @@
 {
-  "Home": {
-    "badgeText": "Elevate Your Business to New Heights",
-    "title": "Turn Your Dreams into Achievements in the USA!",
-    "description": "Unlock the potential of your business journey in the United States with StarFy Agency. We specialize in crafting tailored marketing strategies, leveraging paid traffic, and providing exclusive support for immigrant entrepreneurs. Let's turn your dreams into achievements together.",
-    "cta": "Discover More",
-    "ctaSecondary": "Learn More",
-    "avatarsTitle": "Our Happy Customers",
-    "ratings": "⭐ 4.9 (504 Reviews)"
+  "pages": {
+    "Header": {
+      "getStarted": "Get Started",
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "service": "Services",
+        "contact": "Contact"
+      },
+      "logoAlt": "StarFy Agency Logo",
+      "sheetTitle": "StarFy Agency",
+      "navButton": "Get Started"
+    },
+    "Home": {
+      "HeroSection": {
+        "badgeText": "Elevate your business to new heights",
+        "title": "Your Success in the USA: Get Your Own Clients Now!",
+        "description": "Discover how StarFy Agency can boost your business with marketing strategies, paid traffic, and exclusive support for immigrant entrepreneurs.",
+        "cta": "I'm Interested!",
+        "ctaSecondary": "Learn More",
+        "avatarsTitle": "Our Satisfied Clients",
+        "ratings": "⭐ 4.9 (504 Reviews)"
+      },
+
+      "Services": {
+        "subtitle": "Starring the Path to Success",
+        "title": "Our Services",
+        "description": "We offer comprehensive solutions to boost your business in the USA, focusing on tangible results.",
+        "cta": "Contact Us",
+        "service1": {
+          "title": "Website Creation and Optimization",
+          "description": "We develop attractive and optimized websites to enhance online presence, providing an engaging experience for visitors."
+        },
+        "service2": {
+          "title": "Strategic Ads to Reach Clients",
+          "description": "We create highly effective online advertising campaigns, targeting the right audience to drive traffic and generate qualified leads."
+        },
+        "service3": {
+          "title": "Marketing Content Strategies",
+          "description": "We develop engaging and strategic content to build brand authority, attract and retain audience attention, converting visitors into loyal customers."
+        }
+      },
+
+      "aboutUs": {
+        "subtitle": "Welcome to StarFy",
+        "title": "We're an Agency Specialized in Boosting Businesses. We Make You STOP Depending on Others!",
+        "description": "At StarFy, we are experts in boosting businesses. With professionalism and dedication, we offer a variety of services designed to make you grow in the market.",
+        "services": {
+          "houseCleaning": "House Cleaning",
+          "posConstruction": "Pos Construction",
+          "others": "Others"
+        },
+        "cta": "Get in touch today!"
+      },
+
+      "lowInvestHighProfit": {
+        "title": "Invest Little and Profit Big!",
+        "description": "Discover growth opportunities with affordable investments. At StarFy, we believe success doesn't have to be expensive. With innovative and effective solutions, we help you achieve high profits without compromising your wallet.",
+        "cta": "Start Profiting Now"
+      },
+
+      "testimonials": {
+        "subtitle": "Testimonials",
+        "title": "What Our Clients Say About StarFy",
+        "comments": {
+          "testimonial-1": {
+            "name": "José Pereira",
+            "role": "Construction",
+            "quote": "Hiring StarFy was the best decision for my business. They understood my needs and created strategies that truly boosted sales."
+          },
+          "testimonial-2": {
+            "name": "Camila Santos",
+            "role": "House Cleaning",
+            "quote": "StarFy exceeded my expectations. Their professional and innovative approach made a significant difference in the visibility and growth of my company."
+          },
+          "testimonial-3": {
+            "name": "Lucas Oliveira",
+            "role": "House Cleaning",
+            "quote": "I am extremely satisfied with StarFy's services. They not only understand marketing but also dedicate themselves to ensuring the success of their clients."
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Let's start working together.",
+        "button": "Get in touch with us!"
+      }
+    },
+    "Footer": {
+      "logoAlt": "StarFy Logo",
+      "resources": {
+        "title": "Resources",
+        "links": {
+          "home": "Home",
+          "services": "Services",
+          "about": "About",
+          "testimonials": "Testimonials"
+        }
+      },
+      "contact": {
+        "title": "Contact us",
+        "socialMedia": {
+          "instagram": {
+            "url": "https://www.instagram.com/right_.target/",
+            "text": "Instagram"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "text": "Facebook"
+          }
+        },
+        "cta": "Get in touch with us"
+      },
+      "legal": {
+        "title": "Legal",
+        "links": {
+          "privacy": {
+            "text": "Privacy Policy"
+          },
+          "termsConditions": {
+            "text": "Terms & Conditions"
+          }
+        }
+      },
+      "copyright": "2024 StarFy. All Rights Reserved."
+    }
   }
 }

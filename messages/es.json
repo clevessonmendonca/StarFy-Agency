@@ -1,0 +1,129 @@
+{
+  "pages": {
+    "Header": {
+      "getStarted": "Comienza Ahora",
+      "nav": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "service": "Servicios",
+        "contact": "Contacto"
+      },
+      "logoAlt": "Logo de StarFy Agency",
+      "sheetTitle": "StarFy Agency",
+      "navButton": "Comienza Ahora"
+    },
+    "Home": {
+      "HeroSection": {
+        "badgeText": "Eleva tu negocio a nuevos niveles",
+        "title": "Tu Éxito en EE. UU.: ¡Consigue tus propios clientes ahora!",
+        "description": "Descubre cómo StarFy Agency puede impulsar tu negocio con estrategias de marketing, tráfico pago y soporte exclusivo para emprendedores inmigrantes.",
+        "cta": "¡Tengo Interés!",
+        "ctaSecondary": "Saber más",
+        "avatarsTitle": "Nuestros Clientes Satisfechos",
+        "ratings": "⭐ 4.9 (504 Reseñas)"
+      },
+
+      "Services": {
+        "subtitle": "Protagonizando el Camino al Éxito",
+        "title": "Nuestros Servicios",
+        "description": "Ofrecemos soluciones integrales para impulsar tu negocio en EE. UU., con un enfoque en resultados tangibles.",
+        "cta": "Contacta con nosotros",
+        "service1": {
+          "title": "Creación y Optimización de Sitios Web",
+          "description": "Desarrollamos sitios web atractivos y optimizados para mejorar la presencia en línea, brindando una experiencia envolvente a los visitantes."
+        },
+        "service2": {
+          "title": "Anuncios Estratégicos para Llegar a Clientes",
+          "description": "Creamos campañas publicitarias en línea altamente efectivas, dirigidas al público objetivo correcto para impulsar el tráfico y generar clientes potenciales calificados."
+        },
+        "service3": {
+          "title": "Estrategias de Contenido de Marketing",
+          "description": "Desarrollamos contenido envolvente y estratégico para construir autoridad de marca, atraer y retener la atención del público, convirtiendo visitantes en clientes leales."
+        }
+      },
+
+      "aboutUs": {
+        "subtitle": "Bienvenido a StarFy",
+        "title": "Somos una Agencia Especializada en impulsar negocios. ¡Hacemos que dejes de depender de otros!",
+        "description": "En StarFy, somos especialistas en impulsar negocios. Con profesionalismo y dedicación, ofrecemos una variedad de servicios diseñados para hacer que crezcas en el mercado.",
+        "services": {
+          "houseCleaning": "Limpieza de Casas",
+          "posConstruction": "Pos Construcción",
+          "others": "Otros"
+        },
+        "cta": "¡Contacta hoy mismo!"
+      },
+
+      "lowInvestHighProfit": {
+        "title": "¡Invierte Poco y Gana Mucho!",
+        "description": "Descubre oportunidades de crecimiento con inversiones accesibles. En StarFy, creemos que el éxito no tiene que ser caro. Con soluciones innovadoras y efectivas, te ayudamos a lograr altos beneficios sin comprometer tu bolsillo.",
+        "cta": "Comienza a Ganar Ahora"
+      },
+
+      "testimonials": {
+        "subtitle": "Testimonios",
+        "title": "Lo que nuestros clientes dicen sobre StarFy",
+        "comments": {
+          "testimonial-1": {
+            "name": "José Pereira",
+            "role": "Construcción",
+            "quote": "Contratar a StarFy fue la mejor decisión para mi negocio. Entendieron mis necesidades y crearon estrategias que realmente impulsaron las ventas."
+          },
+          "testimonial-2": {
+            "name": "Camila Santos",
+            "role": "Limpieza de Casas",
+            "quote": "StarFy superó mis expectativas. Su enfoque profesional e innovador hizo una gran diferencia en la visibilidad y crecimiento de mi empresa."
+          },
+          "testimonial-3": {
+            "name": "Lucas Oliveira",
+            "role": "Limpieza de Casas",
+            "quote": "Estoy extremadamente satisfecho con los servicios de StarFy. No solo entienden de marketing, sino que también se dedican a garantizar el éxito de sus clientes."
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Comencemos a trabajar juntos.",
+        "button": "¡Contacta con nosotros!"
+      }
+    },
+    "Footer": {
+      "logoAlt": "Logo de StarFy",
+      "resources": {
+        "title": "Recursos",
+        "links": {
+          "home": "Inicio",
+          "services": "Servicios",
+          "about": "Acerca de",
+          "testimonials": "Testimonios"
+        }
+      },
+      "contact": {
+        "title": "Contáctanos",
+        "socialMedia": {
+          "instagram": {
+            "url": "https://www.instagram.com/right_.target/",
+            "text": "Instagram"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "text": "Facebook"
+          }
+        },
+        "cta": "Contáctanos"
+      },
+      "legal": {
+        "title": "Legal",
+        "links": {
+          "privacy": {
+            "text": "Política de Privacidad"
+          },
+          "termsConditions": {
+            "text": "Términos y Condiciones"
+          }
+        }
+      },
+      "copyright": "2024 StarFy. Todos los derechos reservados."
+    }
+  }
+}

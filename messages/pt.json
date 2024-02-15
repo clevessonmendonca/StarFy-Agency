@@ -86,6 +86,44 @@
         "title": "Vamos começar a trabalhar juntos.",
         "button": "Entre em contato conosco!"
       }
+    },
+    "Footer": {
+      "logoAlt": "StarFy Logo",
+      "resources": {
+        "title": "Resources",
+        "links": {
+          "home": "Início",
+          "services": "Serviços",
+          "about": "Sobre",
+          "testimonials": "Depoimentos"
+        }
+      },
+      "contact": {
+        "title": "Contact us",
+        "socialMedia": {
+          "instagram": {
+            "url": "https://www.instagram.com/right_.target/",
+            "text": "Instagram"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "text": "Facebook"
+          }
+        },
+        "cta": "Entre em contato conosco"
+      },
+      "legal": {
+        "title": "Legal",
+        "links": {
+          "privacy": {
+            "text": "Política de Privacidade"
+          },
+          "termsConditions": {
+            "text": "Termos e Condições"
+          }
+        }
+      },
+      "copyright": "2024 StarFy. Todos os direitos reservados."
     }
   }
 }
