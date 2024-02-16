@@ -59,7 +59,7 @@ export default function Contact() {
           </Link>
         </FadeIn>
         <div className="mt-8 flex justify-center">
-          <Link href="/contact">
+          <Link href={t("href")}>
             <Button size="xl" className="font-bold text-lg">
               {t("cta")}
             </Button>
