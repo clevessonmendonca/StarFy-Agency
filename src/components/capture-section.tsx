@@ -9,7 +9,7 @@ export const CaptureSection = () => {
 
   return (
     <Card className="mx-auto max-w-screen-lg flex-wrap px-4 bg-primary rounded-3xl py-16 text-white">
-      <CardContent className="text-center px-2 space-y-3 md:space-y-5">
+      <CardContent className="text-center px-2 space-y-4 md:space-y-5">
         <CardTitle className="md:text-4xl">{t("title")}</CardTitle>
         <Link target="_blank" href={t("href")}>
           <Button

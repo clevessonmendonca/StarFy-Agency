@@ -10,7 +10,7 @@ import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const GTM_ID = 'GTM-TX2RNB85'
+const GTM_ID = "GTM-TX2RNB85";
 
 export const metadata: Metadata = {
   title: "StarFy Agency - Estratégias de Marketing para o Sucesso nos EUA",
