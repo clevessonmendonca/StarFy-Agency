@@ -27,7 +27,7 @@ export default function Home() {
           width={0}
           className="max-w-40 md:max-w-52 h-full w-full px-5"
           height={0}
-          src="/instagram-logo.png"
+          src="/Instagram-logo.png"
           alt="instagram-logo"
         />
         <Image
