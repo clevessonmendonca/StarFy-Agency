@@ -27,16 +27,16 @@ export default function Home() {
           width={0}
           className="max-w-40 md:max-w-52 h-full w-full px-5"
           height={0}
-          src="/Instagram-logo.png"
-          alt="instagram-logo"
+          src="/google-logo.png"
+          alt="google-logo"
         />
         <Image
           sizes="100vw"
           width={0}
           className="max-w-40 md:max-w-52 h-full w-full px-5"
           height={0}
-          src="/google-logo.png"
-          alt="google-logo"
+          src="/Instagram-logo.png"
+          alt="instagram-logo"
         />
         <Image
           sizes="100vw"
