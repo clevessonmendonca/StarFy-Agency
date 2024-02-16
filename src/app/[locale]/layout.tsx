@@ -43,10 +43,7 @@ export default function RootLayout({
           property="og:description"
           content="Oferecemos serviços de marketing digital para impulsionar o crescimento de negócios."
         />
-        <meta
-          property="og:image"
-          content="/beautiful-photo-of-your-image.jpg"
-        />
+        <meta property="og:image" content="/banner.jpeg" />
         <meta property="og:url" content="https://www.starfymkt.com/" />
         {/* <!-- Facebook and Instagram Tags --> */}
         <meta property="og:type" content="website" />
