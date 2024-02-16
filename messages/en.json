@@ -1,25 +1,25 @@
 {
   "pages": {
     "Header": {
-      "getStarted": "Get Started",
+      "getStarted": "Get Started Now",
       "nav": {
         "home": "Home",
         "about": "About",
         "service": "Services",
-        "contact": "Contact",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
+        "contact": "Contact"
       },
       "logoAlt": "StarFy Agency Logo",
       "sheetTitle": "StarFy Agency",
-      "navButton": "Get Started"
+      "navButton": "Get Started Now",
+      "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
     },
     "Home": {
       "HeroSection": {
-        "badgeText": "Elevate your business to new heights",
+        "badgeText": "Take your business to new heights",
         "title": "Your Success in the USA: Get Your Own Clients Now!",
         "description": "Discover how StarFy Agency can boost your business with marketing strategies, paid traffic, and exclusive support for immigrant entrepreneurs.",
         "cta": "I'm Interested!",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!",
         "ctaSecondary": "Learn More",
         "avatarsTitle": "Our Satisfied Clients",
         "ratings": "⭐ 4.9 (504 Reviews)"
@@ -30,14 +30,14 @@
         "title": "Our Services",
         "description": "We offer comprehensive solutions to boost your business in the USA, focusing on tangible results.",
         "cta": "Contact Us",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!",
         "service1": {
           "title": "Website Creation and Optimization",
           "description": "We develop attractive and optimized websites to enhance online presence, providing an engaging experience for visitors."
         },
         "service2": {
-          "title": "Strategic Ads to Reach Clients",
-          "description": "We create highly effective online advertising campaigns, targeting the right audience to drive traffic and generate qualified leads."
+          "title": "Strategic Ads to Reach Customers",
+          "description": "We create highly effective online advertising campaigns, targeting the right audience to boost traffic and generate qualified leads."
         },
         "service3": {
           "title": "Marketing Content Strategies",
@@ -47,37 +47,37 @@
 
       "aboutUs": {
         "subtitle": "Welcome to StarFy",
-        "title": "We're an Agency Specialized in Boosting Businesses. We Make You STOP Depending on Others!",
-        "description": "At StarFy, we are experts in boosting businesses. With professionalism and dedication, we offer a variety of services designed to make you grow in the market.",
+        "title": "We are an Agency Specialized in Boosting Businesses. We make you STOP depending on others!",
+        "description": "At StarFy, we are experts in boosting businesses. With professionalism and dedication, we offer a variety of services designed to help you grow in the market.",
         "services": {
           "houseCleaning": "House Cleaning",
           "posConstruction": "Pos Construction",
           "others": "Others"
         },
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
-        "cta": "Get in touch today!"
+        "cta": "Contact us today!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
       },
 
       "lowInvestHighProfit": {
-        "title": "Invest Little and Profit Big!",
-        "description": "Discover growth opportunities with affordable investments. At StarFy, we believe success doesn't have to be expensive. With innovative and effective solutions, we help you achieve high profits without compromising your wallet.",
+        "title": "Invest Little and Profit A Lot!",
+        "description": "Discover growth opportunities with affordable investments. At StarFy, we believe that success doesn't have to be expensive. With innovative and effective solutions, we help you achieve high profits without compromising your wallet.",
         "cta": "Start Profiting Now",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
       },
 
       "testimonials": {
         "subtitle": "Testimonials",
-        "title": "What Our Clients Say About StarFy",
+        "title": "What our clients say about StarFy",
         "comments": {
           "testimonial-1": {
             "name": "José Pereira",
             "role": "Construction",
-            "quote": "Hiring StarFy was the best decision for my business. They understood my needs and created strategies that truly boosted sales."
+            "quote": "Hiring StarFy was the best decision for my business. They understood my needs and created strategies that really boosted sales."
           },
           "testimonial-2": {
             "name": "Camila Santos",
             "role": "House Cleaning",
-            "quote": "StarFy exceeded my expectations. Their professional and innovative approach made a significant difference in the visibility and growth of my company."
+            "quote": "StarFy exceeded my expectations. Their professional and innovative approach made a big difference in the visibility and growth of my company."
           },
           "testimonial-3": {
             "name": "Lucas Oliveira",
@@ -89,8 +89,31 @@
 
       "cta": {
         "title": "Let's start working together.",
-        "button": "Get in touch with us!",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
+        "button": "Contact us!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
+      },
+
+      "contact": {
+        "title": "We are Specialists in boosting services in the United States.",
+        "description": "We make you STOP depending on others to get clients!",
+        "email": {
+          "title": "Send an Email",
+          "href": "mailto:starfy.contact@gmail.com"
+        },
+        "zap": {
+          "title": "Send a Whatsapp Message",
+          "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
+        },
+        "instagram": {
+          "title": "Check out our Instagram",
+          "href": "https://www.instagram.com/starfy.agency/"
+        },
+        "facebook": {
+          "title": "Check out our Facebook",
+          "href": "https://www.facebook.com/profile.php?id=61556289484856"
+        },
+        "cta": "I want to grow!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
       }
     },
     "Footer": {
@@ -108,16 +131,16 @@
         "title": "Contact us",
         "socialMedia": {
           "instagram": {
-            "url": "https://www.instagram.com/right_.target/",
+            "url": "https://www.instagram.com/starfy.agency/",
             "text": "Instagram"
           },
           "facebook": {
-            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "url": "https://www.facebook.com/profile.php?id=61556289484856",
             "text": "Facebook"
           }
         },
-        "cta": "Get in touch with us",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
+        "cta": "Get in Touch",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
       },
       "legal": {
         "title": "Legal",
@@ -126,11 +149,11 @@
             "text": "Privacy Policy"
           },
           "termsConditions": {
-            "text": "Terms & Conditions"
+            "text": "Terms and Conditions"
           }
         }
       },
-      "copyright": "2024 StarFy. All Rights Reserved."
+      "copyright": "2024 StarFy. All rights reserved."
     }
   }
 }

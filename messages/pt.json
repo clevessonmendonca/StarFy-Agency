@@ -91,6 +91,29 @@
         "title": "Vamos começar a trabalhar juntos.",
         "button": "Entre em contato conosco!",
         "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      },
+
+      "contact": {
+        "title": "Somos Especialistas em impulsionar serviços nos Estados Unidos.",
+        "description": "Fazemos você PARAR de depender de outros para conseguir clientes!",
+        "email": {
+          "title": "Mande um E-mail",
+          "href": "mailto:starfy.contact@gmail.com"
+        },
+        "zap": {
+          "title": "Mande mensagem no Whatsapp",
+          "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        },
+        "instagram": {
+          "title": "Confira nosso Instagram",
+          "href": "https://www.instagram.com/starfy.agency/"
+        },
+        "facebook": {
+          "title": "Confira nosso Facebook",
+          "href": "https://www.facebook.com/profile.php?id=61556289484856"
+        },
+        "cta": "Quero crescer!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
       }
     },
     "Footer": {
@@ -108,11 +131,11 @@
         "title": "Contact us",
         "socialMedia": {
           "instagram": {
-            "url": "https://www.instagram.com/right_.target/",
+            "url": "https://www.instagram.com/starfy.agency/",
             "text": "Instagram"
           },
           "facebook": {
-            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "url": "https://www.facebook.com/profile.php?id=61556289484856",
             "text": "Facebook"
           }
         },

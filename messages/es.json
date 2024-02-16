@@ -4,68 +4,70 @@
       "getStarted": "Comienza Ahora",
       "nav": {
         "home": "Inicio",
-        "about": "Acerca de",
+        "about": "Sobre Nosotros",
         "service": "Servicios",
         "contact": "Contacto"
       },
       "logoAlt": "Logo de StarFy Agency",
       "sheetTitle": "StarFy Agency",
       "navButton": "Comienza Ahora",
-      "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
     },
     "Home": {
       "HeroSection": {
-        "badgeText": "Eleva tu negocio a nuevos niveles",
-        "title": "Tu Éxito en EE. UU.: ¡Consigue tus propios clientes ahora!",
+        "badgeText": "Lleva tu negocio a nuevas alturas",
+        "title": "Tu Éxito en los EE. UU.: ¡Consigue tus propios clientes ahora!",
         "description": "Descubre cómo StarFy Agency puede impulsar tu negocio con estrategias de marketing, tráfico pago y soporte exclusivo para emprendedores inmigrantes.",
         "cta": "¡Tengo Interés!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!",
         "ctaSecondary": "Saber más",
         "avatarsTitle": "Nuestros Clientes Satisfechos",
         "ratings": "⭐ 4.9 (504 Reseñas)"
       },
 
       "Services": {
-        "subtitle": "Protagonizando el Camino al Éxito",
+        "subtitle": "Protagonizando el Camino del Éxito",
         "title": "Nuestros Servicios",
-        "description": "Ofrecemos soluciones integrales para impulsar tu negocio en EE. UU., con un enfoque en resultados tangibles.",
-        "cta": "Contacta con nosotros",
+        "description": "Ofrecemos soluciones integrales para impulsar tu negocio en los EE. UU., centrándonos en resultados tangibles.",
+        "cta": "Contáctanos",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!",
         "service1": {
           "title": "Creación y Optimización de Sitios Web",
-          "description": "Desarrollamos sitios web atractivos y optimizados para mejorar la presencia en línea, brindando una experiencia envolvente a los visitantes."
+          "description": "Desarrollamos sitios web atractivos y optimizados para mejorar la presencia en línea, proporcionando una experiencia atractiva para los visitantes."
         },
         "service2": {
-          "title": "Anuncios Estratégicos para Llegar a Clientes",
-          "description": "Creamos campañas publicitarias en línea altamente efectivas, dirigidas al público objetivo correcto para impulsar el tráfico y generar clientes potenciales calificados."
+          "title": "Anuncios Estratégicos para Alcanzar Clientes",
+          "description": "Creamos campañas publicitarias en línea altamente efectivas, dirigidas al público adecuado para aumentar el tráfico y generar clientes potenciales cualificados."
         },
         "service3": {
           "title": "Estrategias de Contenido de Marketing",
-          "description": "Desarrollamos contenido envolvente y estratégico para construir autoridad de marca, atraer y retener la atención del público, convirtiendo visitantes en clientes leales."
+          "description": "Desarrollamos contenido atractivo y estratégico para construir la autoridad de la marca, atraer y retener la atención del público, convirtiendo a los visitantes en clientes leales."
         }
       },
 
       "aboutUs": {
         "subtitle": "Bienvenido a StarFy",
-        "title": "Somos una Agencia Especializada en impulsar negocios. ¡Hacemos que dejes de depender de otros!",
-        "description": "En StarFy, somos especialistas en impulsar negocios. Con profesionalismo y dedicación, ofrecemos una variedad de servicios diseñados para hacer que crezcas en el mercado.",
+        "title": "Somos una Agencia Especializada en Impulsar Negocios. ¡Hacemos que DEJES de depender de otros!",
+        "description": "En StarFy, somos expertos en impulsar negocios. Con profesionalismo y dedicación, ofrecemos una variedad de servicios diseñados para ayudarte a crecer en el mercado.",
         "services": {
-          "houseCleaning": "Limpieza de Casas",
+          "houseCleaning": "Limpieza de Hogar",
           "posConstruction": "Pos Construcción",
           "others": "Otros"
         },
-        "cta": "¡Contacta hoy mismo!",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        "cta": "¡Contáctanos hoy mismo!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
       },
 
       "lowInvestHighProfit": {
-        "title": "¡Invierte Poco y Gana Mucho!",
-        "description": "Descubre oportunidades de crecimiento con inversiones accesibles. En StarFy, creemos que el éxito no tiene que ser caro. Con soluciones innovadoras y efectivas, te ayudamos a lograr altos beneficios sin comprometer tu bolsillo.",
+        "title": "¡Invierte Poco y Obtén Muchas Ganancias!",
+        "description": "Descubre oportunidades de crecimiento con inversiones asequibles. En StarFy, creemos que el éxito no tiene que ser caro. Con soluciones innovadoras y efectivas, te ayudamos a obtener altas ganancias sin comprometer tu billetera.",
         "cta": "Comienza a Ganar Ahora",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
       },
 
       "testimonials": {
         "subtitle": "Testimonios",
-        "title": "Lo que nuestros clientes dicen sobre StarFy",
+        "title": "Lo que dicen nuestros clientes sobre StarFy",
         "comments": {
           "testimonial-1": {
             "name": "José Pereira",
@@ -74,31 +76,54 @@
           },
           "testimonial-2": {
             "name": "Camila Santos",
-            "role": "Limpieza de Casas",
-            "quote": "StarFy superó mis expectativas. Su enfoque profesional e innovador hizo una gran diferencia en la visibilidad y crecimiento de mi empresa."
+            "role": "Limpieza de Hogar",
+            "quote": "StarFy superó mis expectativas. Su enfoque profesional e innovador hizo una gran diferencia en la visibilidad y el crecimiento de mi empresa."
           },
           "testimonial-3": {
             "name": "Lucas Oliveira",
-            "role": "Limpieza de Casas",
-            "quote": "Estoy extremadamente satisfecho con los servicios de StarFy. No solo entienden de marketing, sino que también se dedican a garantizar el éxito de sus clientes."
+            "role": "Limpieza de Hogar",
+            "quote": "Estoy extremadamente satisfecho con los servicios de StarFy. No solo comprenden de marketing, sino que también se dedican a garantizar el éxito de sus clientes."
           }
         }
       },
 
       "cta": {
         "title": "Comencemos a trabajar juntos.",
-        "button": "¡Contacta con nosotros!",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        "button": "¡Contáctanos!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
+      },
+
+      "contact": {
+        "title": "Somos Especialistas en Impulsar Servicios en los Estados Unidos.",
+        "description": "¡Hacemos que DEJES de depender de otros para conseguir clientes!",
+        "email": {
+          "title": "Envíanos un Correo Electrónico",
+          "href": "mailto:starfy.contact@gmail.com"
+        },
+        "zap": {
+          "title": "Envía un Mensaje en Whatsapp",
+          "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
+        },
+        "instagram": {
+          "title": "Consulta nuestro Instagram",
+          "href": "https://www.instagram.com/starfy.agency/"
+        },
+        "facebook": {
+          "title": "Consulta nuestro Facebook",
+          "href": "https://www.facebook.com/profile.php?id=61556289484856"
+        },
+        "cta": "¡Quiero crecer!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
       }
     },
     "Footer": {
-      "logoAlt": "Logo de StarFy",
+      "logoAlt": "StarFy Logo",
       "resources": {
         "title": "Recursos",
         "links": {
           "home": "Inicio",
           "services": "Servicios",
-          "about": "Acerca de",
+          "about": "Sobre Nosotros",
           "testimonials": "Testimonios"
         }
       },
@@ -106,16 +131,16 @@
         "title": "Contáctanos",
         "socialMedia": {
           "instagram": {
-            "url": "https://www.instagram.com/right_.target/",
+            "url": "https://www.instagram.com/starfy.agency/",
             "text": "Instagram"
           },
           "facebook": {
-            "url": "https://www.facebook.com/profile.php?id=61555770274333",
+            "url": "https://www.facebook.com/profile.php?id=61556289484856",
             "text": "Facebook"
           }
         },
-        "cta": "Contáctanos",
-        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        "cta": "Entrar en Contacto",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=¡Hola,%20quiero%20aumentar%20las%20ventas!"
       },
       "legal": {
         "title": "Legal",

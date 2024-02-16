@@ -12,11 +12,6 @@ import { useTranslations } from "next-intl";
 import { LanguageToggle } from "./language-selector";
 import Link from "next/link";
 
-interface MenuItem {
-  href: string;
-  text: string;
-}
-
 export const Header = () => {
   const t = useTranslations("pages.Header");
 
@@ -40,7 +35,7 @@ export const Header = () => {
 
           <Sheet>
             <SheetTrigger className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700 md:hidden">
-              <span className="sr-only">{t("menuTrigger")}</span>
+              <span className="sr-only">Open main menu</span>
               <svg
                 className="h-6 w-6"
                 fill="none"
@@ -122,7 +117,7 @@ export const Header = () => {
               {t("nav.service")}
             </Link>
             <Link
-              href="/contact"
+              href="pt/contact"
               className="py-2 text-gray-500 hover:text-gray-900"
             >
               {t("nav.contact")}

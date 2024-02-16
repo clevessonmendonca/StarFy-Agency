@@ -1,8 +1,8 @@
 import Image from "next/image";
-import Link from "next/link";
 import React from "react";
 import { Button } from "./ui/button";
 import { useTranslations } from "next-intl";
+import { Link } from "@/navigation";
 
 export const Footer = () => {
   const t = useTranslations("pages.Footer");
