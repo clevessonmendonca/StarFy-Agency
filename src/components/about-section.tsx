@@ -5,6 +5,7 @@ import { Badge } from "./ui/badge";
 import { FadeIn } from "./animation/fade-in";
 import Image from "next/image";
 import { CheckCheckIcon } from "lucide-react";
+import Link from "next/link";
 
 export const AboutUsSection = () => {
   const t = useTranslations("pages.Home.aboutUs");
@@ -16,7 +17,7 @@ export const AboutUsSection = () => {
   ];
 
   return (
-    <div className="mx-auto max-w-screen-xl p-8">
+    <div id="about" className="mx-auto max-w-screen-xl p-8">
       <div className="text-center md:text-start flex flex-col items-center md:flex-row gap-8 my-6">
         <div className="md:w-2/3">
           <Image
@@ -53,7 +54,9 @@ export const AboutUsSection = () => {
             ))}
 
             <div className="mt-8">
-              <Button size="lg">{t("cta")}</Button>
+              <Link target="_blank" href={t("href")}>
+                <Button size="lg">{t("cta")}</Button>
+              </Link>
             </div>
           </div>
         </div>

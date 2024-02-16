@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { FadeIn } from "@/components/animation/fade-in";
 import { Avatars } from "./avatar";
 import { TrendingUp } from "lucide-react";
+import { Link } from "@/navigation";
 
 export const HeroSection = () => {
   const t = useTranslations("pages.Home.HeroSection");
@@ -21,16 +22,20 @@ export const HeroSection = () => {
         </h1>
         <p className="max-w-[32rem] text-sm">{t("description")}</p>
 
-        <div className="mt-4 flex justify-center items-center gap-5">
-          <Button size="xl" className="font-bold lg:text-lg">
-            {t("cta")}
-          </Button>
-          <Button variant="ghost" className="font-medium lg:text-lg">
-            {t("ctaSecondary")}
-          </Button>
+        <div className="mt-4 flex flex-col md:flex-row justify-center items-center gap-5">
+          <Link target="_blank" href={t("href")}>
+            <Button size="xl" className="font-bold lg:text-lg">
+              {t("cta")}
+            </Button>
+          </Link>
+          <Link href="#services">
+            <Button variant="ghost" className="font-medium text-sm lg:text-lg">
+              {t("ctaSecondary")}
+            </Button>
+          </Link>
         </div>
 
-        <div className="flex gap-4 mt-4">
+        <div className="flex gap-4 mt-4 flex-col md:flex-row justify-center items-center">
           <Avatars />
           <div>
             <h3 className="font-semibold">{t("avatarsTitle")}</h3>

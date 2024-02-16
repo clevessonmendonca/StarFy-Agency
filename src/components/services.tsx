@@ -4,6 +4,7 @@ import { Card } from "./ui/card";
 import { GlobeIcon, LineChartIcon, MegaphoneIcon } from "lucide-react";
 import { Badge } from "./ui/badge";
 import { FadeIn } from "./animation/fade-in";
+import Link from "next/link";
 
 export const ServicesSection = () => {
   const t = useTranslations("pages.Home.Services");
@@ -24,11 +25,10 @@ export const ServicesSection = () => {
       title: t("service3.title"),
       description: t("service3.description"),
     },
-    // Adicione mais serviços conforme necessário
   ];
 
   return (
-    <div className="mx-auto max-w-screen-xl p-8">
+    <div id="services" className="mx-auto max-w-screen-xl p-8">
       <div className="relative text-center md:text-start flex flex-col justify-between items-center md:flex-row gap-2 mb-6">
         <div>
           <Badge>{t("subtitle")}</Badge>
@@ -66,7 +66,9 @@ export const ServicesSection = () => {
       </div>
 
       <div className="mt-8 text-center">
-        <Button size="lg">{t("cta")}</Button>
+        <Link target="_blank" href={t("href")}>
+          <Button size="lg">{t("cta")}</Button>
+        </Link>
       </div>
     </div>
   );

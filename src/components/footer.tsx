@@ -33,13 +33,13 @@ export const Footer = () => {
                   <Link href="/">{t("resources.links.home")}</Link>
                 </li>
                 <li className="mb-4">
-                  <Link href="#services">{t("resources.links.services")}</Link>
+                  <Link href="/#services">{t("resources.links.services")}</Link>
                 </li>
                 <li className="mb-4">
-                  <Link href="#about">{t("resources.links.about")}</Link>
+                  <Link href="/#about">{t("resources.links.about")}</Link>
                 </li>
                 <li className="mb-4">
-                  <Link href="#testimonials">
+                  <Link href="/#testimonials">
                     {t("resources.links.testimonials")}
                   </Link>
                 </li>
@@ -79,18 +79,12 @@ export const Footer = () => {
               </h2>
               <ul className="font-medium text-gray-500 dark:text-gray-400">
                 <li className="mb-4">
-                  <a
-                    href="/privacy-policy"
-                    className="hover:underline"
-                  >
+                  <a href="/privacy-policy" className="hover:underline">
                     {t("legal.links.privacy.text")}
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="privacy-policy"
-                    className="hover:underline"
-                  >
+                  <a href="privacy-policy" className="hover:underline">
                     {t("legal.links.termsConditions.text")}
                   </a>
                 </li>

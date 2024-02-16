@@ -9,7 +9,7 @@ export const TestimonialsSection = () => {
   const t = useTranslations("pages.Home.testimonials");
 
   return (
-    <div className="mx-auto max-w-screen-xl p-8">
+    <div id="testimonials" className="mx-auto max-w-screen-xl p-8">
       <div className="text-center">
         <Badge variant="outline">{t("title")}</Badge>
         <h2 className="text-3xl font-bold mt-2">{t("subtitle")}</h2>

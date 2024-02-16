@@ -6,7 +6,8 @@
         "home": "Home",
         "about": "About",
         "service": "Services",
-        "contact": "Contact"
+        "contact": "Contact",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
       },
       "logoAlt": "StarFy Agency Logo",
       "sheetTitle": "StarFy Agency",
@@ -18,6 +19,7 @@
         "title": "Your Success in the USA: Get Your Own Clients Now!",
         "description": "Discover how StarFy Agency can boost your business with marketing strategies, paid traffic, and exclusive support for immigrant entrepreneurs.",
         "cta": "I'm Interested!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
         "ctaSecondary": "Learn More",
         "avatarsTitle": "Our Satisfied Clients",
         "ratings": "⭐ 4.9 (504 Reviews)"
@@ -28,6 +30,7 @@
         "title": "Our Services",
         "description": "We offer comprehensive solutions to boost your business in the USA, focusing on tangible results.",
         "cta": "Contact Us",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
         "service1": {
           "title": "Website Creation and Optimization",
           "description": "We develop attractive and optimized websites to enhance online presence, providing an engaging experience for visitors."
@@ -51,13 +54,15 @@
           "posConstruction": "Pos Construction",
           "others": "Others"
         },
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!",
         "cta": "Get in touch today!"
       },
 
       "lowInvestHighProfit": {
         "title": "Invest Little and Profit Big!",
         "description": "Discover growth opportunities with affordable investments. At StarFy, we believe success doesn't have to be expensive. With innovative and effective solutions, we help you achieve high profits without compromising your wallet.",
-        "cta": "Start Profiting Now"
+        "cta": "Start Profiting Now",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
       },
 
       "testimonials": {
@@ -84,7 +89,8 @@
 
       "cta": {
         "title": "Let's start working together.",
-        "button": "Get in touch with us!"
+        "button": "Get in touch with us!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
       }
     },
     "Footer": {
@@ -110,7 +116,8 @@
             "text": "Facebook"
           }
         },
-        "cta": "Get in touch with us"
+        "cta": "Get in touch with us",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hello,%20I%20want%20to%20know%20more!"
       },
       "legal": {
         "title": "Legal",

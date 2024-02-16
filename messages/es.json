@@ -10,7 +10,8 @@
       },
       "logoAlt": "Logo de StarFy Agency",
       "sheetTitle": "StarFy Agency",
-      "navButton": "Comienza Ahora"
+      "navButton": "Comienza Ahora",
+      "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
     },
     "Home": {
       "HeroSection": {
@@ -51,13 +52,15 @@
           "posConstruction": "Pos Construcción",
           "others": "Otros"
         },
-        "cta": "¡Contacta hoy mismo!"
+        "cta": "¡Contacta hoy mismo!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
       },
 
       "lowInvestHighProfit": {
         "title": "¡Invierte Poco y Gana Mucho!",
         "description": "Descubre oportunidades de crecimiento con inversiones accesibles. En StarFy, creemos que el éxito no tiene que ser caro. Con soluciones innovadoras y efectivas, te ayudamos a lograr altos beneficios sin comprometer tu bolsillo.",
-        "cta": "Comienza a Ganar Ahora"
+        "cta": "Comienza a Ganar Ahora",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
       },
 
       "testimonials": {
@@ -84,7 +87,8 @@
 
       "cta": {
         "title": "Comencemos a trabajar juntos.",
-        "button": "¡Contacta con nosotros!"
+        "button": "¡Contacta con nosotros!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
       }
     },
     "Footer": {
@@ -110,7 +114,8 @@
             "text": "Facebook"
           }
         },
-        "cta": "Contáctanos"
+        "cta": "Contáctanos",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
       },
       "legal": {
         "title": "Legal",

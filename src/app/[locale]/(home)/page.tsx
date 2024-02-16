@@ -5,7 +5,6 @@ import { AboutUsSection } from "@/components/about-section";
 import { LowInvestHighProfit } from "@/components/lowInvestHighProfit";
 import { TestimonialsSection } from "@/components/testimonials-section";
 import { CaptureSection } from "@/components/capture-section";
-import { Footer } from "@/components/footer";
 
 export default function Home() {
   return (

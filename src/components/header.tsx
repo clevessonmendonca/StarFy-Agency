@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { Card } from "./ui/card";
 import { Button } from "./ui/button";
 import {
@@ -11,6 +10,7 @@ import {
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { LanguageToggle } from "./language-selector";
+import Link from "next/link";
 
 interface MenuItem {
   href: string;
@@ -22,7 +22,7 @@ export const Header = () => {
 
   return (
     <header className="mx-auto w-full max-w-screen-2xl">
-      <Card className="flex items-center justify-between border-none px-[1.875rem] py-[1.5rem]">
+      <Card className="flex items-center justify-between border-none px-4 md:px-[1.875rem] py-[1.5rem]">
         <Link href="/">
           <Image
             width={0}
@@ -34,7 +34,7 @@ export const Header = () => {
           />
         </Link>
         <div className="flex items-center gap-6">
-          <Link href="/contact" className="hidden sm:block md:hidden">
+          <Link href={t("href")} className="hidden sm:block md:hidden">
             <Button>{t("getStarted")}</Button>
           </Link>
 
@@ -61,6 +61,7 @@ export const Header = () => {
                 <h1 className="text-xl font-bold tracking-tighter">
                   {t("sheetTitle")}
                 </h1>
+                <LanguageToggle />
               </SheetTitle>
               <nav className="flex h-full flex-col gap-4 px-2 py-8 text-end">
                 <SheetClose asChild>
@@ -73,7 +74,7 @@ export const Header = () => {
                 </SheetClose>
                 <SheetClose asChild>
                   <Link
-                    href="/about"
+                    href="/#about"
                     className="py-2 text-gray-500 hover:text-gray-900"
                   >
                     {t("nav.about")}
@@ -81,7 +82,7 @@ export const Header = () => {
                 </SheetClose>
                 <SheetClose asChild>
                   <Link
-                    href="/service"
+                    href="/#services"
                     className="py-2 text-gray-500 hover:text-gray-900"
                   >
                     {t("nav.service")}
@@ -89,14 +90,14 @@ export const Header = () => {
                 </SheetClose>
                 <SheetClose asChild>
                   <Link
-                    href="/contact"
+                    href="pt/contact"
                     className="py-2 text-gray-500 hover:text-gray-900"
                   >
                     {t("nav.contact")}
                   </Link>
                 </SheetClose>
                 <SheetClose asChild>
-                  <Link href="/">
+                  <Link target="_blank" href={t("href")}>
                     <Button size="xl">{t("navButton")}</Button>
                   </Link>
                 </SheetClose>
@@ -109,13 +110,13 @@ export const Header = () => {
               {t("nav.home")}
             </Link>
             <Link
-              href="/about"
+              href="/#about"
               className="py-2 text-gray-500 hover:text-gray-900"
             >
               {t("nav.about")}
             </Link>
             <Link
-              href="/service"
+              href="/#services"
               className="py-2 text-gray-500 hover:text-gray-900"
             >
               {t("nav.service")}
@@ -126,7 +127,7 @@ export const Header = () => {
             >
               {t("nav.contact")}
             </Link>
-            <Link href="/">
+            <Link target="_blank" href={t("href")}>
               <Button
                 size="lg"
                 variant="outline"
