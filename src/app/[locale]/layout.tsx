@@ -13,9 +13,9 @@ const inter = Inter({ subsets: ["latin"] });
 const GTM_ID = "GTM-TX2RNB85";
 
 export const metadata: Metadata = {
-  title: "StarFy Agency - Estratégias de Marketing para o Sucesso nos EUA",
+  title: "StarFy Agency - Criação de Sites e Markeeting",
   description:
-    "Transforme sonhos em conquistas nos EUA com as estratégias de marketing da StarFy Agency. Oferecemos tráfego pago, consultoria e suporte para empreendedores imigrantes.",
+    "Criação de Sites profissionais com aumento de clientes para você. Oferecemos tráfego pago, consultoria e suporte para VOCÊ.",
 };
 
 export default function RootLayout({
@@ -31,7 +31,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.png" sizes="any" />
         <meta
           name="keywords"
-          content="marketing, marketing services, digital marketing, business growth"
+          content="marketing, websites, criação de site, marketing services, digital marketing, business growth"
         />
         <meta name="author" content="StarFy Agency" />
         {/* <!-- Open Graph Tags --> */}
@@ -72,6 +72,21 @@ export default function RootLayout({
         })(window,document,'script','dataLayer','${GTM_ID}');
         `}
         </Script>
+
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=AW-11139734703"
+        ></Script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-11139734703');
+            `,
+          }}
+        />
       </head>
 
       <body className={inter.className}>

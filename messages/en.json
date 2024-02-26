@@ -106,11 +106,11 @@
         },
         "instagram": {
           "title": "Check out our Instagram",
-          "href": "https://www.instagram.com/starfy.agency/"
+          "href": "https://www.instagram.com/starfy.agencia/"
         },
         "facebook": {
           "title": "Check out our Facebook",
-          "href": "https://www.facebook.com/profile.php?id=61556289484856"
+          "href": "https://www.facebook.com/starfy.agency"
         },
         "cta": "I want to grow!",
         "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Hi,%20I%20want%20to%20increase%20sales!"
@@ -131,11 +131,11 @@
         "title": "Contact us",
         "socialMedia": {
           "instagram": {
-            "url": "https://www.instagram.com/starfy.agency/",
+            "url": "https://www.instagram.com/starfy.agencia/",
             "text": "Instagram"
           },
           "facebook": {
-            "url": "https://www.facebook.com/profile.php?id=61556289484856",
+            "url": "https://www.facebook.com/starfy.agency",
             "text": "Facebook"
           }
         },

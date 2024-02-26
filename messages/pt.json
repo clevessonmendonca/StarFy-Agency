@@ -16,8 +16,8 @@
     "Home": {
       "HeroSection": {
         "badgeText": "Eleve seu negócio a novos patamares",
-        "title": "Seu Sucesso nos EUA: Consiga Seus Próprios Clientes Agora!",
-        "description": "Descubra como a StarFy Agency pode impulsionar o seu negócio com estratégias de marketing, tráfego pago e suporte exclusivo para empreendedores imigrantes.",
+        "title": "Criamos Sites Profissionais para sua empresa!",
+        "description": "Descubra como a StarFy Agency pode impulsionar o seu negócio com estratégias de marketing, tráfego pago e suporte exclusivo para você.",
         "cta": "Tenho Interesse!",
         "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!",
         "ctaSecondary": "Saiba mais",
@@ -28,7 +28,7 @@
       "Services": {
         "subtitle": "Estrelando o Caminho do Sucesso",
         "title": "Nossos Serviços",
-        "description": "Oferecemos soluções abrangentes para impulsionar o seu negócio nos EUA, com foco em resultados tangíveis.",
+        "description": "Oferecemos soluções abrangentes para impulsionar o seu negócio, com foco em resultados tangíveis.",
         "cta": "Entre em Contato",
         "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!",
         "service1": {
@@ -50,8 +50,165 @@
         "title": "Somos uma Agência Especializada em impulsionar negócios. Fazemos você PARAR de depender de outros!",
         "description": "Na StarFy, somos especialistas em impulsionar negócios. Com profissionalismo e dedicação, oferecemos uma variedade de serviços projetados para fazer você crescer no mercado.",
         "services": {
-          "houseCleaning": "House Cleaning",
-          "posConstruction": "Pos Construction",
+          "houseCleaning": "Criação de sites",
+          "posConstruction": "Marketing Digital",
+          "others": "Outros"
+        },
+        "cta": "Entre em contato hoje mesmo!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      },
+
+      "lowInvestHighProfit": {
+        "title": "Invista Pouco e Lucre Muito!",
+        "description": "Descubra oportunidades de crescimento com investimentos acessíveis. Na StarFy, acreditamos que o sucesso não precisa ser caro. Com soluções inovadoras e eficazes, ajudamos você a alcançar altos lucros sem comprometer sua carteira.",
+        "cta": "Comece a Lucrar Agora",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      },
+
+      "testimonials": {
+        "subtitle": "Depoimentos",
+        "title": "O que nossos clientes dizem sobre a StarFy",
+        "comments": {
+          "testimonial-1": {
+            "name": "José Pereira",
+            "role": "Construction",
+            "quote": "Contratar a StarFy foi a melhor decisão para o meu negócio. Eles compreenderam minhas necessidades e criaram estratégias que realmente impulsionaram as vendas."
+          },
+          "testimonial-2": {
+            "name": "Camila Santos",
+            "role": "House Cleaning",
+            "quote": "A StarFy superou minhas expectativas. Sua abordagem profissional e inovadora fez uma grande diferença na visibilidade e crescimento da minha empresa."
+          },
+          "testimonial-3": {
+            "name": "Lucas Oliveira",
+            "role": "House Cleaning",
+            "quote": "Estou extremamente satisfeito com os serviços da StarFy. Eles não apenas entendem de marketing, mas também se dedicam a garantir o sucesso dos seus clientes."
+          }
+        }
+      },
+
+      "cta": {
+        "title": "Vamos começar a trabalhar juntos.",
+        "button": "Entre em contato conosco!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      },
+
+      "contact": {
+        "title": "Somos Especialistas em Criação de Sites e Marketing Digital.",
+        "description": "Fazemos você PARAR de depender de outros para conseguir clientes!",
+        "email": {
+          "title": "Mande um E-mail",
+          "href": "mailto:starfy.contact@gmail.com"
+        },
+        "zap": {
+          "title": "Mande mensagem no Whatsapp",
+          "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+        },
+        "instagram": {
+          "title": "Confira nosso Instagram",
+          "href": "https://www.instagram.com/starfy.agencia/"
+        },
+        "facebook": {
+          "title": "Confira nosso Facebook",
+          "href": "https://www.facebook.com/starfy.agency"
+        },
+        "cta": "Quero crescer!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      }
+    },
+    "Footer": {
+      "logoAlt": "StarFy Logo",
+      "resources": {
+        "title": "Resources",
+        "links": {
+          "home": "Início",
+          "services": "Serviços",
+          "about": "Sobre",
+          "testimonials": "Depoimentos"
+        }
+      },
+      "contact": {
+        "title": "Contact us",
+        "socialMedia": {
+          "instagram": {
+            "url": "https://www.instagram.com/starfy.agencia/",
+            "text": "Instagram"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/starfy.agency",
+            "text": "Facebook"
+          }
+        },
+        "cta": "Entrar em Contato",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+      },
+      "legal": {
+        "title": "Legal",
+        "links": {
+          "privacy": {
+            "text": "Política de Privacidade"
+          },
+          "termsConditions": {
+            "text": "Termos e Condições"
+          }
+        }
+      },
+      "copyright": "2024 StarFy. Todos os direitos reservados."
+    }
+  },
+  "eua": {
+    "Header": {
+      "getStarted": "Comece Agora",
+      "nav": {
+        "home": "Início",
+        "about": "Sobre",
+        "service": "Serviços",
+        "contact": "Contato"
+      },
+      "logoAlt": "Logo da StarFy Agency",
+      "sheetTitle": "StarFy Agency",
+      "navButton": "Comece Agora",
+      "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
+    },
+    "Home": {
+      "HeroSection": {
+        "badgeText": "Eleve seu negócio a novos patamares",
+        "title": "Criamos Sites Profissionais para sua empresa!",
+        "description": "Descubra como a StarFy Agency pode impulsionar o seu negócio com estratégias de marketing, tráfego pago e suporte exclusivo para você.",
+        "cta": "Tenho Interesse!",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!",
+        "ctaSecondary": "Saiba mais",
+        "avatarsTitle": "Nossos Clientes Satisfeitos",
+        "ratings": "⭐ 4.9 (504 Avaliações)"
+      },
+
+      "Services": {
+        "subtitle": "Estrelando o Caminho do Sucesso",
+        "title": "Nossos Serviços",
+        "description": "Oferecemos soluções abrangentes para impulsionar o seu negócio, com foco em resultados tangíveis.",
+        "cta": "Entre em Contato",
+        "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!",
+        "service1": {
+          "title": "Criação e Otimização de Sites",
+          "description": "Desenvolvemos sites atrativos e otimizados para melhorar a presença online, proporcionando uma experiência envolvente aos visitantes."
+        },
+        "service2": {
+          "title": "Anúncios Estratégicos para Alcançar Clientes",
+          "description": "Criamos campanhas publicitárias online altamente eficazes, direcionadas ao público-alvo certo para impulsionar o tráfego e gerar leads qualificados."
+        },
+        "service3": {
+          "title": "Estratégias de Conteúdo de Marketing",
+          "description": "Desenvolvemos conteúdo envolvente e estratégico para construir autoridade de marca, atrair e reter a atenção do público, convertendo visitantes em clientes leais."
+        }
+      },
+
+      "aboutUs": {
+        "subtitle": "Bem-Vindo à StarFy",
+        "title": "Somos uma Agência Especializada em impulsionar negócios. Fazemos você PARAR de depender de outros!",
+        "description": "Na StarFy, somos especialistas em impulsionar negócios. Com profissionalismo e dedicação, oferecemos uma variedade de serviços projetados para fazer você crescer no mercado.",
+        "services": {
+          "houseCleaning": "Criação de sites",
+          "posConstruction": "Marketing Digital",
           "others": "Outros"
         },
         "cta": "Entre em contato hoje mesmo!",
@@ -106,11 +263,11 @@
         },
         "instagram": {
           "title": "Confira nosso Instagram",
-          "href": "https://www.instagram.com/starfy.agency/"
+          "href": "https://www.instagram.com/starfy.agencia/"
         },
         "facebook": {
           "title": "Confira nosso Facebook",
-          "href": "https://www.facebook.com/profile.php?id=61556289484856"
+          "href": "https://www.facebook.com/starfy.agency"
         },
         "cta": "Quero crescer!",
         "href": "https://api.whatsapp.com/send?phone=5561985783047&text=Oi,%20quero%20faturar%20mais!"
@@ -131,11 +288,11 @@
         "title": "Contact us",
         "socialMedia": {
           "instagram": {
-            "url": "https://www.instagram.com/starfy.agency/",
+            "url": "https://www.instagram.com/starfy.agencia/",
             "text": "Instagram"
           },
           "facebook": {
-            "url": "https://www.facebook.com/profile.php?id=61556289484856",
+            "url": "https://www.facebook.com/starfy.agency",
             "text": "Facebook"
           }
         },
