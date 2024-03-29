@@ -1,38 +1,56 @@
-# StarFy
+<p align="center">
+  <img src="./.github/thumbnail.png" height="450px" />
+</p>
 
-![StarFy Banner](./public/banner.jpg)
+<h1 align="center">
+ StarFy Agency
+</h1>
 
-Welcome to StarFy – Your Gateway to Success!
+<p align="center">
+  StarFy Agency é uma agência de marketing com um site de vendas dinâmico e interativo, construído com Next.js e Tailwind CSS.
+</p>
 
-## About
+## Visão Geral
 
-StarFy is a dynamic agency dedicated to transforming spaces and propelling businesses to new heights. With a focus on professionalism and unwavering dedication, we offer a range of specialized services designed to meet your unique needs.
+StarFy Agency é uma agência de marketing inovadora que oferece soluções criativas para impulsionar o seu negócio. Nosso site de vendas foi projetado para proporcionar uma experiência excepcional ao usuário, com recursos avançados e uma interface intuitiva.
 
-## Services
+## 🚀 Tecnologias Utilizadas
 
-### 1. House Cleaning
-Revitalize your living space with our top-notch house cleaning services.
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Outras tecnologias utilizadas]
 
-### 2. Pos Construction
-Navigate post-construction challenges effortlessly with our expert services.
+## Funcionalidades
 
-### 3. Others
-Explore a variety of additional services crafted with excellence and professionalism.
+- **Sistema de Troca de Linguagens:** Um diferencial do nosso site é a capacidade de trocar entre diferentes idiomas, proporcionando uma experiência personalizada para usuários de todo o mundo.
+- [Outras funcionalidades]
 
-## Why Choose StarFy?
+## Como Contribuir
 
-- **Strategic Partnerships:** We go beyond services; we build partnerships for success.
-  
-- **Client-Centric Approach:** Your goals are our priority. We tailor our services to meet your specific needs.
+Se você quiser contribuir para o desenvolvimento do StarFy Agency, siga estas etapas:
 
-- **Excellence in Every Detail:** From cleaning to construction, expect nothing but excellence in every service.
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+3. Faça commit das suas mudanças (`git commit -am 'Adiciona minha nova feature'`)
+4. Faça push para a branch (`git push origin feature/MinhaFeature`)
+5. Abra um Pull Request
 
-## Get in Touch!
+## Como Rodar o Projeto Localmente
 
-Ready to transform your space or elevate your business? Contact us today!
+Para executar o StarFy Agency localmente, siga estas etapas:
 
-**Explore our complete range of services and embark on a journey to success with StarFy.**
+1. Clone este repositório: `git clone https://github.com/clevessonmendonca/starfy-agency.git`
+2. Acesse o diretório do projeto: `cd starfy-agency`
+3. Instale as dependências: `npm install` ou `yarn install`
+4. Inicie o servidor de desenvolvimento: `npm run dev` ou `yarn dev`
+5. Acesse o site em seu navegador: `http://localhost:3000`
 
-## License
+## Contribuidores
 
-This project is licensed under the [MIT License](LICENSE).
+- Nome do Contribuidor (@username)
+- Nome do Contribuidor (@username)
+- [Lista de todos os contribuidores]
+
+## Licença
+
+Este projeto é licenciado sob a [Licença XYZ](https://example.com/licenca).
